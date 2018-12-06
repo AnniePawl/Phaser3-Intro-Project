@@ -1,6 +1,8 @@
-# Phaser 3 Webpack Project Template
+# Phaser 3 Intro Project
 
-A Phaser 3 Project Template
+I worked with a Phaser3 game template to create a small game involving a little player who runs and jumps around platforms, collecting stars like the star that he is. 
+
+![phaser3 photo](https://phaser.io/content/tutorials/making-your-first-phaser-3-game/tutorial_header.png)
 
 ### Requirements
 
